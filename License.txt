@@ -1,0 +1,6 @@
+Copyright (C) Yuzhou Xiang. All Rights Reserved
+
+Unauthorized copying, sharing, or modification of this file and project, via any medium is strictly prohibited.
+Proprietary and confidential
+
+Written by Yuzhou Xiang, January 2020
